@@ -1,0 +1,15 @@
+{
+  "name": "node-lab",
+  "version": "1.0.0",
+  "description": "node lab for covalence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "promise": "^8.1.0",
+    "request-promise": "^4.2.5"
+  }
+}
