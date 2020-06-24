@@ -1,5 +1,6 @@
 const path = require('path');
 const fs = require('fs');
+const rp = require('request-promise');
 
 // const serverPath = path.join(__dirname, './server/server.js'); 
 const chortlesPath = path.join(__dirname, '../chortles.json'); 
