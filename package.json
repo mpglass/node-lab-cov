@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "run-server": "node server/server.js",
-    "reddit": "node /reddit.js",
-    "downloader": "node /popular-downloader.js",
+    "reddit": "node reddit.js",
+    "downloader": "node popular-downloader.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
